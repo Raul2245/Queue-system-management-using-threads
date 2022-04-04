@@ -1,0 +1,304 @@
+Time: 1
+Waiting clients: (ID: 0, Service time: 3, Arrival Time: 2) (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:
+Server 1:
+
+Time: 2
+Waiting clients: (ID: 0, Service time: 3, Arrival Time: 2) (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:
+Server 1:
+
+Time: 3
+Waiting clients: (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:
+
+Time: 4
+Waiting clients: (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:
+
+Time: 5
+Waiting clients: (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:
+
+Time: 6
+Waiting clients: (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:
+
+Time: 7
+Waiting clients: (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:
+
+Time: 8
+Waiting clients: (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:
+
+Time: 9
+Waiting clients: (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:
+
+Time: 10
+Waiting clients: (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:
+
+Time: 11
+Waiting clients: (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:
+
+Time: 12
+Waiting clients: (ID: 3, Service time: 3, Arrival Time: 12) (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:
+
+Time: 13
+Waiting clients: (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 14
+Waiting clients: (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 15
+Waiting clients: (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 16
+Waiting clients: (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 17
+Waiting clients: (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 18
+Waiting clients: (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 19
+Waiting clients: (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 20
+Waiting clients: (ID: 2, Service time: 3, Arrival Time: 20) (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 21
+Waiting clients: (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 22
+Waiting clients: (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 23
+Waiting clients: (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 24
+Waiting clients: (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 25
+Waiting clients: (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 26
+Waiting clients: (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 27
+Waiting clients: (ID: 1, Service time: 2, Arrival Time: 27) 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) 
+
+Time: 28
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 29
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 30
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 31
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 32
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 33
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 34
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 35
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 36
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 37
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 38
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 39
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 40
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 41
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 42
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 43
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 44
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 45
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 46
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 47
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 48
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 49
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 50
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 51
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 52
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 53
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 54
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 55
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 56
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 57
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 58
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 59
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+Time: 60
+Waiting clients: 
+Server 0:(ID: 0, Service time: 3, Arrival Time: 2) (ID: 2, Service time: 3, Arrival Time: 20) 
+Server 1:(ID: 3, Service time: 3, Arrival Time: 12) (ID: 1, Service time: 2, Arrival Time: 27) 
+
+
+Peak Time: 2
+Average waiting time: 15.25
+Average service time: 2.75
